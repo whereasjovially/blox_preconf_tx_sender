@@ -29,3 +29,4 @@ rand = "0.8.5"
 
 #serd
 serde_json = "1.0.115"
+dotenv = "0.15.0"
