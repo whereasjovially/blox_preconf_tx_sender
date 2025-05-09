@@ -1,5 +1,5 @@
 [package]
-name = "blob_tx_sender"
+name = "preconf_spammer"
 version = "0.1.0"
 edition = "2021"
 
@@ -30,3 +30,4 @@ rand = "0.8.5"
 #serd
 serde_json = "1.0.115"
 dotenv = "0.15.0"
+serde = "1.0.219"

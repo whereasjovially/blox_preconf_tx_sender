@@ -1,0 +1,6 @@
+services:
+  spammer:
+    image: whereasjovially/preconf-spammer:0.0.1
+    restart: unless-stopped
+    env_file:
+    - .env
